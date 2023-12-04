@@ -29,7 +29,7 @@ Kia ora! I am a proactive full-stack web developer who is curious and constantly
 
 * 🌍  I'm based in Wellington, New Zealand
 * ✉️  You can contact me at [lingzhangmyself@gmail.com](mailto:lingzhangmyself@gmail.com)
-* 🧠  I'm learning React, SQL
+* 🧠  I'm learning React, SQL, Ruby on Rails, AWS
 * ⚡  I like going out and about in the nature, yoga, podcast, journalling and spending time with my family
 
 ### Skills
